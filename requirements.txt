@@ -12,5 +12,7 @@ pytesseract
 pdf2image
 numpy
 pydantic<2
+poppler-utils
+
 
 
